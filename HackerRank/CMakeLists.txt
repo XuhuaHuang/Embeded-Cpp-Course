@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(hacker_rank LANGUAGES CXX)
+project("hacker_rank" LANGUAGES CXX)
 
 set(CMAKE_C_STANDARD 20)
 SET(CMAKE_C_STANDARD_REQUIRED ON)
