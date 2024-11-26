@@ -2,7 +2,7 @@
 // https://github.com/boost-ext/ut/blob/master/include/boost/ut.hpp
 
 // clang-format off
-// cl .\pattern_matching_notes.cpp /I "C:/boost/ut/include" /W4 /Zc:__cplusplus /EHsc /std:c++latest /experimental:module
+// cl .\pattern_matching_notes.cpp /I "D:/include/ut/include" /W4 /Zc:__cplusplus /EHsc /std:c++latest /experimental:module
 // clang-format on
 
 #include <boost/ut.hpp>

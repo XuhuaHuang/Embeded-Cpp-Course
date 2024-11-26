@@ -1,5 +1,5 @@
 // clang-format off
-// g++ .\any_of_unittest.cpp -I"C:/boost/ut/include" -std=c++2b -o any_of_unittest.exe -Wall -Wextra -O3 -Wno-pragma-once-outside-header
+// g++ .\any_of_unittest.cpp -I"D:/include/ut/include" -std=c++2b -o any_of_unittest.exe -Wall -Wextra -O3 -Wno-pragma-once-outside-header
 // clang-format on
 
 #include "any_of.hpp"

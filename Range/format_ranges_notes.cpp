@@ -4,10 +4,10 @@
  * \brief  Notes on format ranges in C++.
  * 
  * With MSVC compiler
- * cl .\format_ranges_notes.cpp /I "C:/boost/ut/include" /W4 /Zc:__cplusplus /EHsc /std:c++latest /experimental:module
+ * cl .\format_ranges_notes.cpp /I "D:/include/ut/include" /W4 /Zc:__cplusplus /EHsc /std:c++latest /experimental:module
  * 
  * With GCC compiler
- * g++ .\format_ranges_notes.cpp -I"C:/boost/ut/include" -std=c++2b -o enumerate_unittest.exe -Wall -Wextra -O3 -Wno-pragma-once-outside-header
+ * g++ .\format_ranges_notes.cpp -I"D:/include/ut/include" -std=c++2b -o enumerate_unittest.exe -Wall -Wextra -O3 -Wno-pragma-once-outside-header
  * 
  * \author Xuhua Huang
  * \date   July 09, 2023
