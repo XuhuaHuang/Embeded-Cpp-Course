@@ -47,6 +47,9 @@ int main()
     // Output the result
     std::cout << "Transformed point: (" << transformed_point[0] << ", " << transformed_point[1] << ", "
               << transformed_point[2] << ")\n";
-
+    // Transformed point: (5, 7, 9)
+    // Note: The output will be the same as the input point plus the translation vector since the rotation matrix is
+    // identity.
+    // {1 + 4, 2 + 5, 3 + 6} = {5, 7, 9}
     return 0;
 }
